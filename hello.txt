@@ -7,3 +7,4 @@ hello hot-fix
 hello github
 hello gittest
 new line
+new new line
